@@ -1,0 +1,5 @@
+# https://bravagencia.com.br/robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://bravagencia.com.br/sitemap.xml
